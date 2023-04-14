@@ -1,6 +1,6 @@
 #!/bin/bash
 
-for i in {1..100}
+for i in {0..100}
 do
     url="http://10.10.155.72/note.php?note=$i"
     echo "Sending cURL request to $url"
