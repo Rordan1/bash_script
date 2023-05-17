@@ -1,0 +1,20 @@
+#!/bin/bash
+which msfconsole
+which nmap
+which tshark
+which gobuster
+which sqlmap
+which ifconfig
+which whatweb
+which arp
+which netstat
+which route
+which nslookup
+which ping
+which hostname
+which hostid
+which whois
+which dig
+which host
+which nslookup
+which nsupdate
