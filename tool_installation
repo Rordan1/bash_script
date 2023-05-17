@@ -7,3 +7,4 @@ sudo apt install -y gobuster
 sudo apt install -y sqlmap
 sudo apt install -y net-tools
 sudo apt install -y whatweb
+sudo apt install -y dnsutils
